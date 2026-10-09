@@ -4,7 +4,7 @@
 
 ___
 
-<img src="img/cover.png" width="100%">
+<img src="cover.png" width="100%">
 
 ## О проекте
 _Проект о dbt в рамках пассажирских авиаперевозок._
